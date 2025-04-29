@@ -1,0 +1,41 @@
+.bg-success{
+    background-color: #f2ef8c;
+    color: rgba(255, 255, 255, 0.864);
+    font-weight: bold;
+}
+.navbar-brand{
+    font-size: 80px;
+}
+.nav-link{
+    color:rgba(165, 42, 42, 0.838);
+}
+.nav-link:hover{
+    color:black ;
+}
+h2{
+    font-weight: bold;
+    color: rgb(7, 74, 7);
+    font-size: 60;
+
+}
+.py-5{
+    background: url('./assests/back.png') no-repeat center center fixed;
+    background-size: cover;
+  min-height: 100vh; /* pour occuper au moins toute la hauteur de l'écran */
+  padding: 50px 20px;
+}
+.card-img-top{
+    height: 150px;
+    width: 120px;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+
+}
+footer {
+    background-color: #90C67C;
+    color: black;
+    padding: 1rem 0;
+    font-weight: bold;
+  }
